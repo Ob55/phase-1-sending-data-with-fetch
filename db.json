@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,228 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 1
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 2
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 3
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 4
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 5
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 6
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 7
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 8
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 9
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 10
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 11
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 12
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 13
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 14
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 15
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 16
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 17
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 18
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 19
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 20
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 21
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 22
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 23
+    },
+    {
+      "name": "brian mwangi",
+      "email": "brian.mwangi@example.com",
+      "id": 24
+    },
+    {
+      "name": "bSteve",
+      "email": "brian.mwangi@example.com",
+      "id": 25
+    },
+    {
+      "name": "bSteve",
+      "email": "brian.mwangi@example.com",
+      "id": 26
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 27
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 28
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 29
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 30
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 31
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 32
+    },
+    {
+      "name": "bteve",
+      "email": "brian.mwangi@example.com",
+      "id": 33
+    },
+    {
+      "name": "bSteve",
+      "email": "brian.mwangi@example.com",
+      "id": 34
+    },
+    {
+      "name": "bSteve",
+      "email": "brian.mwangi@example.com",
+      "id": 35
+    },
+    {
+      "name": "Steve",
+      "email": "brian.mwangi@example.com",
+      "id": 36
+    },
+    {
+      "name": "Steve",
+      "email": "brian.mwangi@example.com",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "brian.mwangi@example.com",
+      "id": 38
+    },
+    {
+      "name": "Steve",
+      "email": "brian.mwangi@example.com",
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "brian.mwangi@example.com",
+      "id": 40
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 41
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 42
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 43
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
